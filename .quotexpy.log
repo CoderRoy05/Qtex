@@ -1,0 +1,2004 @@
+[ INFO/2024-03-12 21:20:26,372] quotexpy.api: Authenticating user...
+[ INFO/2024-03-12 21:30:15,397] quotexpy.api: Authenticating user...
+[ INFO/2024-03-12 21:56:23,449] quotexpy.api: Authenticating user...
+[ INFO/2024-03-12 22:19:45,291] quotexpy.api: Authenticating user...
+[ INFO/2024-03-12 23:29:05,737] quotexpy.api: Authenticating user...
+[ INFO/2024-03-12 23:53:08,742] quotexpy.api: Authenticating user...
+[ INFO/2024-03-13 00:17:57,570] quotexpy.api: Authenticating user...
+[ INFO/2024-03-13 00:30:23,358] quotexpy.api: Authenticating user...
+[ INFO/2024-03-13 00:54:44,371] quotexpy.api: Authenticating user...
+[ INFO/2024-03-13 00:57:36,712] quotexpy.api: Login successful!!!
+[ INFO/2024-03-13 00:57:38,522] websocket: Websocket connected
+[ INFO/2024-03-13 00:57:38,553] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 00:57:38,686] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 00:58:27,778] quotexpy: Waiting for trade operation... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:09:09,883] websocket: Websocket connected
+[ INFO/2024-03-13 01:09:10,001] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:09:10,164] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:09:10,582] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:09:11,701] quotexpy: Waiting for trade operation... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:09:17,425] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:09:18,245] websocket: Websocket connected
+[ INFO/2024-03-13 01:09:18,277] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:09:18,395] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:09:18,704] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:09:24,066] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:09:24,835] websocket: Websocket connected
+[ INFO/2024-03-13 01:09:24,879] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:09:25,000] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:09:25,477] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:09:30,673] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:09:31,471] websocket: Websocket connected
+[ INFO/2024-03-13 01:09:31,507] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:09:31,625] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:09:32,034] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:10:05,318] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:10:06,350] websocket: Websocket connected
+[ INFO/2024-03-13 01:10:06,380] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:10:06,493] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:10:06,914] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:10:12,360] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:10:13,134] websocket: Websocket connected
+[ INFO/2024-03-13 01:10:13,154] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:10:13,272] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:10:13,583] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:10:18,713] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:10:19,629] websocket: Websocket connected
+[ INFO/2024-03-13 01:10:19,657] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:10:19,771] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:10:20,083] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:10:25,117] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:10:26,054] websocket: Websocket connected
+[ INFO/2024-03-13 01:10:26,083] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:10:26,200] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:10:26,626] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:10:31,938] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:10:32,724] websocket: Websocket connected
+[ INFO/2024-03-13 01:10:32,748] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:10:32,862] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:10:33,171] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:11:05,630] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:11:06,494] websocket: Websocket connected
+[ INFO/2024-03-13 01:11:06,545] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:11:06,668] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:11:07,086] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:11:12,607] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:11:13,440] websocket: Websocket connected
+[ INFO/2024-03-13 01:11:13,477] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:11:13,599] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:11:14,023] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:11:19,409] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:11:20,225] websocket: Websocket connected
+[ INFO/2024-03-13 01:11:20,255] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:11:20,369] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:11:20,691] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:11:25,962] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:11:26,826] websocket: Websocket connected
+[ INFO/2024-03-13 01:11:26,859] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:11:26,973] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:11:27,381] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:11:32,701] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:11:33,528] websocket: Websocket connected
+[ INFO/2024-03-13 01:11:33,634] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:11:33,746] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:11:34,055] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:12:05,441] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:12:06,179] websocket: Websocket connected
+[ INFO/2024-03-13 01:12:06,216] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:12:06,324] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:12:06,745] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:12:12,206] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:12:12,935] websocket: Websocket connected
+[ INFO/2024-03-13 01:12:12,959] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:12:13,073] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:12:13,391] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:12:18,595] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:12:19,408] websocket: Websocket connected
+[ INFO/2024-03-13 01:12:19,448] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:12:19,559] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:12:25,227] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:12:26,215] websocket: Websocket connected
+[ INFO/2024-03-13 01:12:26,384] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:12:26,512] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:12:26,824] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:12:32,188] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:12:32,969] websocket: Websocket connected
+[ INFO/2024-03-13 01:12:33,030] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:12:33,136] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:13:05,744] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:13:06,501] websocket: Websocket connected
+[ INFO/2024-03-13 01:13:06,550] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:13:06,667] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:13:06,978] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:13:12,230] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:13:12,996] websocket: Websocket connected
+[ INFO/2024-03-13 01:13:13,026] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:13:13,141] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:13:13,480] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:13:18,791] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:13:19,774] websocket: Websocket connected
+[ INFO/2024-03-13 01:13:19,811] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:13:19,931] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:13:20,365] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:13:21,306] quotexpy.api: Waiting for authorization... Elapsed time: 1 seconds.
+[ INFO/2024-03-13 01:13:26,662] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:13:27,461] websocket: Websocket connected
+[ INFO/2024-03-13 01:13:27,487] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:13:27,604] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:13:27,912] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:13:33,144] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:13:34,005] websocket: Websocket connected
+[ INFO/2024-03-13 01:13:34,037] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:13:34,149] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:13:34,459] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:14:05,600] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:14:06,398] websocket: Websocket connected
+[ INFO/2024-03-13 01:14:06,429] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:14:06,546] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:14:06,957] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:14:12,468] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:14:13,295] websocket: Websocket connected
+[ INFO/2024-03-13 01:14:13,325] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:14:13,439] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:14:13,751] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:14:18,879] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:14:19,742] websocket: Websocket connected
+[ INFO/2024-03-13 01:14:19,767] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:14:19,893] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:14:20,306] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:14:25,631] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:14:26,420] websocket: Websocket connected
+[ INFO/2024-03-13 01:14:26,452] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:14:26,558] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:14:26,973] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:14:32,195] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:14:32,949] websocket: Websocket connected
+[ INFO/2024-03-13 01:14:32,981] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:14:33,097] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:14:33,508] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:15:05,448] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:15:06,240] websocket: Websocket connected
+[ INFO/2024-03-13 01:15:06,272] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:15:06,381] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:15:06,692] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:15:11,791] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:15:12,769] websocket: Websocket connected
+[ INFO/2024-03-13 01:15:12,799] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:15:12,926] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:15:13,361] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:15:18,682] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:15:19,414] websocket: Websocket connected
+[ INFO/2024-03-13 01:15:19,454] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:15:19,566] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:15:19,876] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:15:25,323] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:15:26,178] websocket: Websocket connected
+[ INFO/2024-03-13 01:15:26,210] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:15:26,338] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:15:26,783] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:15:31,982] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:15:32,752] websocket: Websocket connected
+[ INFO/2024-03-13 01:15:32,780] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:15:32,887] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:15:33,196] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:16:05,864] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:16:06,700] websocket: Websocket connected
+[ INFO/2024-03-13 01:16:06,743] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:16:06,858] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:16:07,185] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:16:12,456] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:16:13,226] websocket: Websocket connected
+[ INFO/2024-03-13 01:16:13,251] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:16:13,368] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:16:13,783] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:16:19,506] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:16:20,278] websocket: Websocket connected
+[ INFO/2024-03-13 01:16:20,326] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:16:20,453] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:16:20,764] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:16:26,033] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:16:26,778] websocket: Websocket connected
+[ INFO/2024-03-13 01:16:26,812] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:16:26,924] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:16:32,526] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:16:33,288] websocket: Websocket connected
+[ INFO/2024-03-13 01:16:33,312] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:16:33,424] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:16:33,735] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:17:05,578] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:17:06,307] websocket: Websocket connected
+[ INFO/2024-03-13 01:17:06,357] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:17:06,471] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:17:06,929] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:17:12,197] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:17:12,997] websocket: Websocket connected
+[ INFO/2024-03-13 01:17:13,029] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:17:13,141] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:17:13,450] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:17:18,628] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:17:19,487] websocket: Websocket connected
+[ INFO/2024-03-13 01:17:19,538] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:17:19,653] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:17:20,070] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:17:25,479] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:17:26,248] websocket: Websocket connected
+[ INFO/2024-03-13 01:17:26,279] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:17:26,399] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:17:26,718] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:17:31,851] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:17:32,946] websocket: Websocket connected
+[ INFO/2024-03-13 01:17:32,990] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:17:33,109] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:17:33,420] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:18:05,497] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:18:06,285] websocket: Websocket connected
+[ INFO/2024-03-13 01:18:06,418] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:18:06,536] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:18:06,843] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:18:11,925] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:18:12,862] websocket: Websocket connected
+[ INFO/2024-03-13 01:18:12,890] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:18:13,004] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:18:13,427] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:18:18,745] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:18:19,699] websocket: Websocket connected
+[ INFO/2024-03-13 01:18:19,738] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:18:19,850] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:18:20,258] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:18:25,487] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:18:26,526] websocket: Websocket connected
+[ INFO/2024-03-13 01:18:26,618] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:18:26,740] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:18:27,052] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:18:32,237] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:18:33,086] websocket: Websocket connected
+[ INFO/2024-03-13 01:18:33,111] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:18:33,229] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:18:33,640] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:19:05,525] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:19:06,417] websocket: Websocket connected
+[ INFO/2024-03-13 01:19:06,453] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:19:06,572] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:19:06,881] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:19:12,146] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:19:12,962] websocket: Websocket connected
+[ INFO/2024-03-13 01:19:13,076] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:19:13,186] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:19:13,600] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:19:19,141] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:19:19,959] websocket: Websocket connected
+[ INFO/2024-03-13 01:19:20,002] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:19:20,120] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:19:20,532] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:19:26,188] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:19:26,921] websocket: Websocket connected
+[ INFO/2024-03-13 01:19:26,947] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:19:27,057] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:19:32,520] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:19:33,272] websocket: Websocket connected
+[ INFO/2024-03-13 01:19:33,302] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:19:33,435] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:19:33,857] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:20:05,316] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:20:06,077] websocket: Websocket connected
+[ INFO/2024-03-13 01:20:06,180] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:20:06,303] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:20:06,617] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:20:11,826] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:20:12,599] websocket: Websocket connected
+[ INFO/2024-03-13 01:20:12,688] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:20:12,794] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:20:13,219] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:20:18,890] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:20:19,711] websocket: Websocket connected
+[ INFO/2024-03-13 01:20:19,735] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:20:19,841] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:20:20,158] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:20:25,431] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:20:26,201] websocket: Websocket connected
+[ INFO/2024-03-13 01:20:26,236] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:20:26,351] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:20:26,672] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:20:31,900] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:20:32,693] websocket: Websocket connected
+[ INFO/2024-03-13 01:20:32,715] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:20:32,830] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:20:33,157] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:21:05,606] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:21:06,450] websocket: Websocket connected
+[ INFO/2024-03-13 01:21:06,558] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:21:06,669] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:21:07,084] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:21:12,428] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:21:13,184] websocket: Websocket connected
+[ INFO/2024-03-13 01:21:13,218] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:21:13,336] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:21:13,752] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:21:19,212] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:21:20,033] websocket: Websocket connected
+[ INFO/2024-03-13 01:21:20,106] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:21:20,223] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:21:20,541] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:21:25,626] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:21:26,647] websocket: Websocket connected
+[ INFO/2024-03-13 01:21:26,675] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:21:26,786] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:21:27,100] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:21:32,331] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:21:33,100] websocket: Websocket connected
+[ INFO/2024-03-13 01:21:33,145] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:21:33,257] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:21:33,538] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:22:05,560] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:22:06,366] websocket: Websocket connected
+[ INFO/2024-03-13 01:22:06,388] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:22:06,504] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:22:06,813] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:22:12,040] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:22:12,885] websocket: Websocket connected
+[ INFO/2024-03-13 01:22:12,917] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:22:13,032] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:22:13,343] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:22:18,525] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:22:19,425] websocket: Websocket connected
+[ INFO/2024-03-13 01:22:19,534] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:22:19,678] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:22:20,012] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:22:25,603] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:22:26,566] websocket: Websocket connected
+[ INFO/2024-03-13 01:22:26,642] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:22:26,752] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:22:27,248] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:22:32,571] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:22:33,328] websocket: Websocket connected
+[ INFO/2024-03-13 01:22:33,405] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:22:33,554] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:23:05,243] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:23:06,198] websocket: Websocket connected
+[ INFO/2024-03-13 01:23:06,326] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:23:06,440] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:23:06,766] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:23:11,977] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:23:12,766] websocket: Websocket connected
+[ INFO/2024-03-13 01:23:12,857] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:23:12,975] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:23:13,387] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:23:19,514] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:23:20,289] websocket: Websocket connected
+[ INFO/2024-03-13 01:23:20,511] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:23:20,628] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:23:21,047] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:23:26,503] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:23:27,398] websocket: Websocket connected
+[ INFO/2024-03-13 01:23:27,424] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:23:27,537] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:23:27,969] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:23:33,318] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:23:34,128] websocket: Websocket connected
+[ INFO/2024-03-13 01:23:34,152] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:23:34,264] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:24:05,570] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:24:06,370] websocket: Websocket connected
+[ INFO/2024-03-13 01:24:06,396] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:24:06,507] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:24:06,813] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:24:12,067] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:24:12,902] websocket: Websocket connected
+[ INFO/2024-03-13 01:24:12,927] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:24:13,102] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:24:13,429] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:24:18,590] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:24:19,492] websocket: Websocket connected
+[ INFO/2024-03-13 01:24:19,506] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:24:19,616] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:24:19,927] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:24:24,988] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:24:25,909] websocket: Websocket connected
+[ INFO/2024-03-13 01:24:25,939] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:24:26,055] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:24:26,463] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:24:31,787] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:24:32,561] websocket: Websocket connected
+[ INFO/2024-03-13 01:24:32,645] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:24:32,760] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:24:33,073] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:25:05,375] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:25:06,154] websocket: Websocket connected
+[ INFO/2024-03-13 01:25:06,194] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:25:06,306] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:25:06,613] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:25:11,843] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:25:12,652] websocket: Websocket connected
+[ INFO/2024-03-13 01:25:12,674] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:25:12,787] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:25:13,202] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:25:18,392] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:25:19,296] websocket: Websocket connected
+[ INFO/2024-03-13 01:25:19,325] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:25:19,443] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:25:19,753] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:25:24,890] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:25:25,850] websocket: Websocket connected
+[ INFO/2024-03-13 01:25:25,876] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:25:25,989] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:25:26,293] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:25:31,469] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:25:32,445] websocket: Websocket connected
+[ INFO/2024-03-13 01:25:32,476] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:25:32,586] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:25:32,893] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:26:05,111] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:26:06,012] websocket: Websocket connected
+[ INFO/2024-03-13 01:26:06,412] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:26:06,598] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:26:06,943] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:26:12,305] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:26:13,225] websocket: Websocket connected
+[ INFO/2024-03-13 01:26:13,257] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:26:13,375] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:26:13,795] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:26:19,301] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:26:20,055] websocket: Websocket connected
+[ INFO/2024-03-13 01:26:20,099] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:26:20,216] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:26:20,523] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:26:25,803] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:26:26,589] websocket: Websocket connected
+[ INFO/2024-03-13 01:26:26,606] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:26:26,718] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:26:27,126] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:26:32,779] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:26:33,525] websocket: Websocket connected
+[ INFO/2024-03-13 01:26:33,560] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:26:33,679] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:26:33,984] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:27:05,336] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:27:06,070] websocket: Websocket connected
+[ INFO/2024-03-13 01:27:06,093] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:27:06,208] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:27:06,517] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:27:11,563] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:27:12,579] websocket: Websocket connected
+[ INFO/2024-03-13 01:27:12,634] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:27:12,752] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:27:13,056] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:27:18,121] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:27:19,061] websocket: Websocket connected
+[ INFO/2024-03-13 01:27:19,090] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:27:19,201] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:27:19,510] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:27:24,586] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:27:25,571] websocket: Websocket connected
+[ INFO/2024-03-13 01:27:25,613] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:27:25,729] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:27:31,112] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:27:31,943] websocket: Websocket connected
+[ INFO/2024-03-13 01:27:31,969] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:27:32,083] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:27:32,511] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:27:33,425] quotexpy.api: Waiting for authorization... Elapsed time: 1 seconds.
+[ INFO/2024-03-13 01:27:34,454] quotexpy.api: Waiting for authorization... Elapsed time: 2 seconds.
+[ INFO/2024-03-13 01:27:35,473] quotexpy.api: Waiting for authorization... Elapsed time: 3 seconds.
+[ INFO/2024-03-13 01:27:36,402] quotexpy.api: Waiting for authorization... Elapsed time: 4 seconds.
+[ INFO/2024-03-13 01:28:05,657] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:28:06,476] websocket: Websocket connected
+[ INFO/2024-03-13 01:28:06,497] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:28:06,603] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:28:06,909] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:28:12,119] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:28:12,929] websocket: Websocket connected
+[ INFO/2024-03-13 01:28:12,953] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:28:13,066] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:28:13,374] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:28:18,617] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:28:19,399] websocket: Websocket connected
+[ INFO/2024-03-13 01:28:19,426] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:28:19,538] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:28:25,018] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:28:25,884] websocket: Websocket connected
+[ INFO/2024-03-13 01:28:25,905] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:28:26,027] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:28:31,449] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:28:32,267] websocket: Websocket connected
+[ INFO/2024-03-13 01:28:32,319] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:28:32,434] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:28:32,848] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:28:33,780] quotexpy.api: Waiting for authorization... Elapsed time: 1 seconds.
+[ INFO/2024-03-13 01:28:34,797] quotexpy.api: Waiting for authorization... Elapsed time: 2 seconds.
+[ INFO/2024-03-13 01:28:35,808] quotexpy.api: Waiting for authorization... Elapsed time: 3 seconds.
+[ INFO/2024-03-13 01:29:05,507] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:29:06,321] websocket: Websocket connected
+[ INFO/2024-03-13 01:29:06,359] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:29:06,476] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:29:06,906] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:29:12,327] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:29:13,065] websocket: Websocket connected
+[ INFO/2024-03-13 01:29:13,104] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:29:13,216] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:29:13,527] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:29:18,756] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:29:19,563] websocket: Websocket connected
+[ INFO/2024-03-13 01:29:19,622] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:29:19,735] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:29:20,046] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:29:25,229] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:29:26,125] websocket: Websocket connected
+[ INFO/2024-03-13 01:29:26,188] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:29:26,302] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:29:26,611] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:29:31,663] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:29:32,616] websocket: Websocket connected
+[ INFO/2024-03-13 01:29:32,651] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:29:32,760] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:29:33,069] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:30:05,269] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:30:06,253] websocket: Websocket connected
+[ INFO/2024-03-13 01:30:06,276] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:30:06,391] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:30:06,807] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:30:12,295] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:30:13,145] websocket: Websocket connected
+[ INFO/2024-03-13 01:30:13,168] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:30:13,274] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:30:14,200] quotexpy.api: Waiting for authorization... Elapsed time: 1 seconds.
+[ INFO/2024-03-13 01:30:14,509] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:30:19,671] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:30:20,582] websocket: Websocket connected
+[ INFO/2024-03-13 01:30:20,602] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:30:20,707] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:30:21,120] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:30:26,409] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:30:27,200] websocket: Websocket connected
+[ INFO/2024-03-13 01:30:27,244] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:30:27,361] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:30:27,776] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:30:32,914] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:30:33,832] websocket: Websocket connected
+[ INFO/2024-03-13 01:30:33,863] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:30:33,976] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:30:34,392] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:31:05,320] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:31:06,094] websocket: Websocket connected
+[ INFO/2024-03-13 01:31:06,154] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:31:06,260] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:31:06,676] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:31:12,491] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:31:13,451] websocket: Websocket connected
+[ INFO/2024-03-13 01:31:13,478] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:31:13,588] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:31:13,897] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:31:19,022] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:31:20,038] websocket: Websocket connected
+[ INFO/2024-03-13 01:31:20,069] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:31:20,192] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:31:25,732] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:31:26,559] websocket: Websocket connected
+[ INFO/2024-03-13 01:31:26,586] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:31:26,693] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:31:32,236] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:31:33,034] websocket: Websocket connected
+[ INFO/2024-03-13 01:31:33,061] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:31:33,176] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:31:33,589] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:32:05,534] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:32:06,316] websocket: Websocket connected
+[ INFO/2024-03-13 01:32:06,343] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:32:06,455] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:32:06,878] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:32:12,123] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:32:13,022] websocket: Websocket connected
+[ INFO/2024-03-13 01:32:13,046] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:32:13,161] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:32:13,471] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:32:18,630] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:32:19,480] websocket: Websocket connected
+[ INFO/2024-03-13 01:32:19,515] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:32:19,634] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:32:20,051] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:32:25,308] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:32:26,310] websocket: Websocket connected
+[ INFO/2024-03-13 01:32:26,346] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:32:26,458] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:32:26,864] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 01:32:27,160] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710289946}
+[ INFO/2024-03-13 01:32:32,127] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:32:33,063] websocket: Websocket connected
+[ INFO/2024-03-13 01:32:33,095] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:32:33,207] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:32:33,523] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 01:33:00,337] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710289980}
+[ INFO/2024-03-13 01:33:05,168] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:33:06,100] websocket: Websocket connected
+[ INFO/2024-03-13 01:33:06,130] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:33:06,240] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:33:06,546] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 01:33:07,212] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710289986}
+[ INFO/2024-03-13 01:33:12,384] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:33:13,246] websocket: Websocket connected
+[ INFO/2024-03-13 01:33:13,278] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:33:13,390] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:33:13,797] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:33:19,499] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:33:20,338] websocket: Websocket connected
+[ INFO/2024-03-13 01:33:20,360] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:33:20,477] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:33:20,789] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:33:25,862] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:33:26,974] websocket: Websocket connected
+[ INFO/2024-03-13 01:33:27,005] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:33:27,111] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:33:27,522] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:33:32,658] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:33:33,601] websocket: Websocket connected
+[ INFO/2024-03-13 01:33:33,635] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:33:33,744] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:33:34,153] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:34:05,261] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:34:06,258] websocket: Websocket connected
+[ INFO/2024-03-13 01:34:06,291] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:34:06,407] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:34:06,717] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:34:11,771] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:34:12,649] websocket: Websocket connected
+[ INFO/2024-03-13 01:34:12,697] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:34:12,814] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:34:13,234] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:34:18,542] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:34:19,307] websocket: Websocket connected
+[ INFO/2024-03-13 01:34:19,329] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:34:19,442] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:34:19,857] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:34:25,629] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:34:26,420] websocket: Websocket connected
+[ INFO/2024-03-13 01:34:26,442] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:34:26,569] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:34:27,093] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:34:32,493] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:34:33,247] websocket: Websocket connected
+[ INFO/2024-03-13 01:34:33,291] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:34:33,412] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:34:33,723] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:35:05,488] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:35:06,333] websocket: Websocket connected
+[ INFO/2024-03-13 01:35:06,354] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:35:06,471] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:35:06,786] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:35:11,841] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:35:12,797] websocket: Websocket connected
+[ INFO/2024-03-13 01:35:12,835] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:35:12,941] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:35:13,353] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:35:18,667] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:35:19,525] websocket: Websocket connected
+[ INFO/2024-03-13 01:35:19,546] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:35:19,660] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:35:20,073] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:35:25,361] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:35:26,328] websocket: Websocket connected
+[ INFO/2024-03-13 01:35:26,360] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:35:26,466] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:35:26,879] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:35:32,312] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:35:33,093] websocket: Websocket connected
+[ INFO/2024-03-13 01:35:33,132] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:35:33,247] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:35:33,660] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:36:05,532] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:36:06,388] websocket: Websocket connected
+[ INFO/2024-03-13 01:36:06,415] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:36:06,538] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:36:06,952] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:36:12,255] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:36:13,090] websocket: Websocket connected
+[ INFO/2024-03-13 01:36:13,242] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:36:13,355] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:36:13,795] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:36:19,141] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:36:20,056] websocket: Websocket connected
+[ INFO/2024-03-13 01:36:20,087] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:36:20,204] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:36:20,618] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:36:25,916] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:36:26,991] websocket: Websocket connected
+[ INFO/2024-03-13 01:36:27,037] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:36:27,142] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:36:27,449] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:36:32,685] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:36:33,479] websocket: Websocket connected
+[ INFO/2024-03-13 01:36:33,509] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:36:33,613] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:36:33,974] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:37:05,576] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:37:06,371] websocket: Websocket connected
+[ INFO/2024-03-13 01:37:06,439] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:37:06,555] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:37:06,905] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 01:37:07,373] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710290227}
+[ INFO/2024-03-13 01:37:12,405] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:37:13,316] websocket: Websocket connected
+[ INFO/2024-03-13 01:37:13,542] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:37:13,664] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:37:13,983] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:37:19,466] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:37:20,384] websocket: Websocket connected
+[ INFO/2024-03-13 01:37:20,539] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:37:20,686] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:37:26,398] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:37:27,189] websocket: Websocket connected
+[ INFO/2024-03-13 01:37:27,225] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:37:27,337] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:37:27,666] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:37:32,807] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:37:33,679] websocket: Websocket connected
+[ INFO/2024-03-13 01:37:33,911] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:37:34,023] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:37:34,449] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:37:35,425] quotexpy.api: Waiting for authorization... Elapsed time: 1 seconds.
+[ INFO/2024-03-13 01:37:36,365] quotexpy.api: Waiting for authorization... Elapsed time: 2 seconds.
+[ INFO/2024-03-13 01:37:37,385] quotexpy.api: Waiting for authorization... Elapsed time: 3 seconds.
+[ INFO/2024-03-13 01:38:05,305] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:38:06,081] websocket: Websocket connected
+[ INFO/2024-03-13 01:38:06,168] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:38:06,285] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:38:06,700] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 01:38:07,146] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710290286}
+[ INFO/2024-03-13 01:38:12,026] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:38:12,863] websocket: Websocket connected
+[ INFO/2024-03-13 01:38:12,921] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:38:13,031] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:38:13,345] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 01:38:14,328] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710290294}
+[ INFO/2024-03-13 01:38:19,473] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:38:20,251] websocket: Websocket connected
+[ INFO/2024-03-13 01:38:20,284] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:38:20,401] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:38:20,716] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 01:38:21,208] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710290300}
+[ INFO/2024-03-13 01:38:26,113] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:38:26,920] websocket: Websocket connected
+[ INFO/2024-03-13 01:38:26,950] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:38:27,066] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:38:27,372] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:38:32,609] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:38:33,357] websocket: Websocket connected
+[ INFO/2024-03-13 01:38:33,380] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:38:33,496] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:38:33,916] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:39:05,401] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:39:06,239] websocket: Websocket connected
+[ INFO/2024-03-13 01:39:06,274] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:39:06,390] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:39:11,685] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:39:12,609] websocket: Websocket connected
+[ INFO/2024-03-13 01:39:12,652] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:39:12,765] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:39:13,094] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:39:18,189] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:39:19,087] websocket: Websocket connected
+[ INFO/2024-03-13 01:39:19,115] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:39:19,231] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:39:19,537] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:39:24,771] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:39:25,573] websocket: Websocket connected
+[ INFO/2024-03-13 01:39:25,594] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:39:25,710] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:39:26,122] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 01:39:26,703] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710290366}
+[ INFO/2024-03-13 01:39:31,443] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:39:32,224] websocket: Websocket connected
+[ INFO/2024-03-13 01:39:32,234] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:39:32,344] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:39:32,656] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:40:05,287] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:40:06,088] websocket: Websocket connected
+[ INFO/2024-03-13 01:40:06,118] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:40:06,230] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:40:06,541] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:40:11,772] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:40:12,547] websocket: Websocket connected
+[ INFO/2024-03-13 01:40:12,580] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:40:12,696] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:40:13,004] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:40:18,295] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:40:19,343] websocket: Websocket connected
+[ INFO/2024-03-13 01:40:19,363] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:40:19,480] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:40:25,922] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:40:28,271] websocket: Websocket connected
+[ INFO/2024-03-13 01:40:28,293] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:40:28,398] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:40:29,316] quotexpy.api: Waiting for authorization... Elapsed time: 1 seconds.
+[ INFO/2024-03-13 01:40:29,731] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:40:35,081] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:40:35,956] websocket: Websocket connected
+[ INFO/2024-03-13 01:40:35,976] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:40:36,085] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:40:36,504] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:41:05,274] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:41:06,112] websocket: Websocket connected
+[ INFO/2024-03-13 01:41:06,138] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:41:06,249] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:41:07,165] quotexpy.api: Waiting for authorization... Elapsed time: 1 seconds.
+[ INFO/2024-03-13 01:41:07,272] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 01:41:13,182] quotexpy.ws.client: Connection timed out
+[ERROR/2024-03-13 01:41:13,183] websocket: Connection timed out - goodbye
+[ INFO/2024-03-13 01:41:13,183] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:41:16,821] websocket: Websocket connected
+[ INFO/2024-03-13 01:41:16,863] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:41:16,981] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:41:17,898] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 01:41:19,051] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710290477}
+[ERROR/2024-03-13 01:41:19,053] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710290477}
+[ INFO/2024-03-13 01:41:22,941] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:41:23,871] websocket: Websocket connected
+[ INFO/2024-03-13 01:41:23,897] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:41:24,019] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 01:41:29,666] quotexpy.ws.client: Connection timed out
+[ERROR/2024-03-13 01:41:29,667] websocket: Connection timed out - goodbye
+[ INFO/2024-03-13 01:41:29,668] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:41:34,258] websocket: Websocket connected
+[ INFO/2024-03-13 01:41:34,268] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:41:34,386] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:41:34,800] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 01:42:01,154] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710290520}
+[ERROR/2024-03-13 01:42:01,161] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710290520}
+[ INFO/2024-03-13 01:42:05,513] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:42:06,468] websocket: Websocket connected
+[ INFO/2024-03-13 01:42:06,510] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:42:06,624] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 01:42:07,673] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710290526}
+[ INFO/2024-03-13 01:42:12,201] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:42:12,977] websocket: Websocket connected
+[ INFO/2024-03-13 01:42:13,001] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:42:13,116] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:42:13,422] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:42:18,517] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:42:19,405] websocket: Websocket connected
+[ INFO/2024-03-13 01:42:19,443] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:42:19,557] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:42:19,880] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:42:25,030] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:42:25,960] websocket: Websocket connected
+[ INFO/2024-03-13 01:42:25,995] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:42:26,110] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:42:27,022] quotexpy.api: Waiting for authorization... Elapsed time: 1 seconds.
+[ERROR/2024-03-13 01:42:28,427] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710290547}
+[ERROR/2024-03-13 01:42:28,434] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710290547}
+[ INFO/2024-03-13 01:42:32,850] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:42:33,642] websocket: Websocket connected
+[ INFO/2024-03-13 01:42:33,701] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:42:33,806] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:42:34,313] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 01:43:01,036] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710290580}
+[ INFO/2024-03-13 01:43:05,449] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:43:07,310] websocket: Websocket connected
+[ INFO/2024-03-13 01:43:07,341] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:43:07,449] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:43:08,361] quotexpy.api: Waiting for authorization... Elapsed time: 1 seconds.
+[ INFO/2024-03-13 01:43:08,671] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:43:09,585] quotexpy.api: Waiting for authorization... Elapsed time: 1 seconds.
+[ERROR/2024-03-13 01:43:15,365] quotexpy.ws.client: Connection timed out
+[ERROR/2024-03-13 01:43:15,366] websocket: Connection timed out - goodbye
+[ INFO/2024-03-13 01:43:15,366] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:43:17,116] websocket: Websocket connected
+[ INFO/2024-03-13 01:43:17,148] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:43:17,264] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 01:43:19,314] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710290597}
+[ERROR/2024-03-13 01:43:19,315] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710290597}
+[ INFO/2024-03-13 01:43:22,678] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:43:23,651] websocket: Websocket connected
+[ INFO/2024-03-13 01:43:23,678] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:43:23,789] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:43:24,300] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:43:29,666] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:43:30,598] websocket: Websocket connected
+[ INFO/2024-03-13 01:43:30,628] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:43:30,760] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:43:31,697] quotexpy.api: Waiting for authorization... Elapsed time: 1 seconds.
+[ERROR/2024-03-13 01:44:04,865] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710290640}
+[ERROR/2024-03-13 01:44:04,866] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710290640}
+[ INFO/2024-03-13 01:44:05,115] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:44:06,084] websocket: Websocket connected
+[ INFO/2024-03-13 01:44:06,140] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:44:06,255] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 01:44:07,071] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710290646}
+[ERROR/2024-03-13 01:44:07,074] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710290646}
+[ INFO/2024-03-13 01:44:11,888] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:44:13,675] websocket: Websocket connected
+[ INFO/2024-03-13 01:44:13,691] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:44:13,802] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:44:14,716] quotexpy.api: Waiting for authorization... Elapsed time: 1 seconds.
+[ INFO/2024-03-13 01:44:14,925] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:44:20,454] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:44:22,536] websocket: Websocket connected
+[ INFO/2024-03-13 01:44:22,591] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:44:22,703] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:44:23,620] quotexpy.api: Waiting for authorization... Elapsed time: 1 seconds.
+[ INFO/2024-03-13 01:44:24,245] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:44:30,577] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:44:33,672] websocket: Websocket connected
+[ INFO/2024-03-13 01:44:33,693] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:44:33,803] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:44:34,720] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 01:44:59,258] quotexpy.ws.client: Connection to remote host was lost.
+[ERROR/2024-03-13 01:44:59,259] websocket: Connection to remote host was lost. - goodbye
+[ INFO/2024-03-13 01:44:59,259] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:45:00,056] quotexpy.api: Websocket connection closed.
+[ INFO/2024-03-13 01:45:00,057] quotexpy.api: Websocket connection closed.
+[ INFO/2024-03-13 01:45:05,935] websocket: Websocket connected
+[ INFO/2024-03-13 01:45:05,960] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:45:06,082] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:45:07,008] quotexpy.api: Waiting for authorization... Elapsed time: 1 seconds.
+[ INFO/2024-03-13 01:45:07,822] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:45:08,736] quotexpy.api: Waiting for authorization... Elapsed time: 1 seconds.
+[ERROR/2024-03-13 01:45:14,210] quotexpy.ws.client: Connection timed out
+[ERROR/2024-03-13 01:45:14,210] websocket: Connection timed out - goodbye
+[ INFO/2024-03-13 01:45:14,210] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:45:15,289] websocket: Websocket connected
+[ INFO/2024-03-13 01:45:15,317] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:45:15,427] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 01:45:21,353] quotexpy.ws.client: Connection timed out
+[ERROR/2024-03-13 01:45:21,353] websocket: Connection timed out - goodbye
+[ INFO/2024-03-13 01:45:21,354] quotexpy.ws.client: Websocket connection closed.
+[ERROR/2024-03-13 01:45:43,011] quotexpy.ws.client: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[ERROR/2024-03-13 01:45:43,038] websocket: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond - goodbye
+[ INFO/2024-03-13 01:45:43,039] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:45:43,885] websocket: Websocket connected
+[ INFO/2024-03-13 01:45:43,909] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:45:44,025] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:45:44,446] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 01:46:00,700] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710290760}
+[ INFO/2024-03-13 01:46:05,364] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:46:06,217] websocket: Websocket connected
+[ INFO/2024-03-13 01:46:06,245] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:46:06,359] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:46:06,673] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 01:46:06,897] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710290766}
+[ INFO/2024-03-13 01:46:11,888] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:46:12,738] websocket: Websocket connected
+[ INFO/2024-03-13 01:46:12,774] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:46:12,895] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:46:13,326] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:46:19,135] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:46:20,006] websocket: Websocket connected
+[ INFO/2024-03-13 01:46:20,042] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:46:20,164] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:46:21,078] quotexpy.api: Waiting for authorization... Elapsed time: 1 seconds.
+[ INFO/2024-03-13 01:46:22,021] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:46:28,364] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:46:29,337] websocket: Websocket connected
+[ INFO/2024-03-13 01:46:29,374] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:46:29,489] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:46:29,803] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 01:46:30,526] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710290789}
+[ INFO/2024-03-13 01:46:35,081] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:46:36,011] websocket: Websocket connected
+[ INFO/2024-03-13 01:46:36,052] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:46:36,171] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:46:37,081] quotexpy.api: Waiting for authorization... Elapsed time: 1 seconds.
+[ERROR/2024-03-13 01:47:02,462] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710290820}
+[ERROR/2024-03-13 01:47:02,464] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710290820}
+[ INFO/2024-03-13 01:47:05,458] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:47:06,383] websocket: Websocket connected
+[ INFO/2024-03-13 01:47:06,411] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:47:06,522] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:47:07,045] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:47:12,315] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:47:13,823] websocket: Websocket connected
+[ INFO/2024-03-13 01:47:13,854] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:47:13,965] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:47:14,476] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:47:20,937] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:47:22,126] websocket: Websocket connected
+[ INFO/2024-03-13 01:47:22,154] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:47:22,270] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:47:28,523] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:47:29,320] websocket: Websocket connected
+[ INFO/2024-03-13 01:47:29,354] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:47:29,469] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:47:30,380] quotexpy.api: Waiting for authorization... Elapsed time: 1 seconds.
+[ INFO/2024-03-13 01:47:31,223] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:47:32,141] quotexpy.api: Waiting for authorization... Elapsed time: 1 seconds.
+[ INFO/2024-03-13 01:47:33,163] quotexpy.api: Waiting for authorization... Elapsed time: 2 seconds.
+[ERROR/2024-03-13 01:48:02,355] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710290880}
+[ERROR/2024-03-13 01:48:02,357] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710290880}
+[ INFO/2024-03-13 01:48:05,344] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:48:06,219] websocket: Websocket connected
+[ INFO/2024-03-13 01:48:06,247] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:48:06,361] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:48:07,273] quotexpy.api: Waiting for authorization... Elapsed time: 1 seconds.
+[ERROR/2024-03-13 01:48:12,758] quotexpy.ws.client: Connection timed out
+[ERROR/2024-03-13 01:48:12,759] websocket: Connection timed out - goodbye
+[ INFO/2024-03-13 01:48:12,759] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:48:15,193] websocket: Websocket connected
+[ INFO/2024-03-13 01:48:15,222] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:48:15,340] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:48:20,841] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:48:22,892] websocket: Websocket connected
+[ INFO/2024-03-13 01:48:22,924] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:48:23,047] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:48:23,873] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:48:29,435] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:48:33,164] websocket: Websocket connected
+[ INFO/2024-03-13 01:48:33,196] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:48:33,307] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:48:34,225] quotexpy.api: Waiting for authorization... Elapsed time: 1 seconds.
+[ INFO/2024-03-13 01:48:34,429] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:49:05,274] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:49:06,063] websocket: Websocket connected
+[ INFO/2024-03-13 01:49:06,226] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:49:06,381] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:49:06,712] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:49:07,637] quotexpy.api: Waiting for authorization... Elapsed time: 1 seconds.
+[ INFO/2024-03-13 01:49:08,663] quotexpy.api: Waiting for authorization... Elapsed time: 2 seconds.
+[ INFO/2024-03-13 01:49:09,683] quotexpy.api: Waiting for authorization... Elapsed time: 3 seconds.
+[ INFO/2024-03-13 01:49:10,693] quotexpy.api: Waiting for authorization... Elapsed time: 4 seconds.
+[ INFO/2024-03-13 01:49:16,577] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:49:17,565] websocket: Websocket connected
+[ INFO/2024-03-13 01:49:17,599] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:49:17,714] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:49:23,181] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:49:24,032] websocket: Websocket connected
+[ INFO/2024-03-13 01:49:24,052] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:49:24,164] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:49:24,478] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 01:49:24,831] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710290964}
+[ERROR/2024-03-13 01:49:24,834] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710290964}
+[ INFO/2024-03-13 01:49:29,725] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:49:30,509] websocket: Websocket connected
+[ INFO/2024-03-13 01:49:30,530] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:49:30,641] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:49:31,053] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 01:50:00,764] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291000}
+[ERROR/2024-03-13 01:50:00,771] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291000}
+[ INFO/2024-03-13 01:50:05,525] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:50:06,335] websocket: Websocket connected
+[ INFO/2024-03-13 01:50:06,354] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:50:06,465] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:50:06,886] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 01:50:07,351] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291006}
+[ERROR/2024-03-13 01:50:07,353] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291006}
+[ INFO/2024-03-13 01:50:11,997] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:50:12,987] websocket: Websocket connected
+[ INFO/2024-03-13 01:50:13,024] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:50:13,135] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:50:13,445] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 01:50:14,001] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291013}
+[ INFO/2024-03-13 01:50:18,686] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:50:19,499] websocket: Websocket connected
+[ INFO/2024-03-13 01:50:19,538] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:50:19,656] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:50:19,970] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 01:50:20,661] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291019}
+[ERROR/2024-03-13 01:50:20,662] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291019}
+[ INFO/2024-03-13 01:50:25,213] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:50:26,011] websocket: Websocket connected
+[ INFO/2024-03-13 01:50:26,048] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:50:26,167] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:50:26,575] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 01:50:27,119] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291026}
+[ INFO/2024-03-13 01:50:31,775] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:50:32,691] websocket: Websocket connected
+[ INFO/2024-03-13 01:50:32,727] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:50:32,837] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:50:33,152] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 01:51:00,775] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291060}
+[ INFO/2024-03-13 01:51:05,366] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:51:06,508] websocket: Websocket connected
+[ INFO/2024-03-13 01:51:06,542] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:51:06,659] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:51:07,089] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 01:51:07,385] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291067}
+[ERROR/2024-03-13 01:51:07,387] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291067}
+[ INFO/2024-03-13 01:51:12,202] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:51:13,178] websocket: Websocket connected
+[ INFO/2024-03-13 01:51:13,214] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:51:13,326] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:51:13,635] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 01:51:14,007] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291073}
+[ INFO/2024-03-13 01:51:18,850] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:51:19,602] websocket: Websocket connected
+[ INFO/2024-03-13 01:51:19,650] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:51:19,761] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:51:20,169] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 01:51:20,474] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291080}
+[ INFO/2024-03-13 01:51:25,472] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:51:26,286] websocket: Websocket connected
+[ INFO/2024-03-13 01:51:26,318] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:51:26,423] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:51:26,874] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 01:51:27,331] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291086}
+[ INFO/2024-03-13 01:51:32,106] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:51:32,903] websocket: Websocket connected
+[ INFO/2024-03-13 01:51:32,922] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:51:33,038] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:51:33,461] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 01:52:00,631] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291120}
+[ INFO/2024-03-13 01:52:05,374] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:52:06,127] websocket: Websocket connected
+[ INFO/2024-03-13 01:52:06,160] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:52:06,278] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:52:06,719] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 01:52:07,004] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291126}
+[ INFO/2024-03-13 01:52:11,846] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:52:12,743] websocket: Websocket connected
+[ INFO/2024-03-13 01:52:12,786] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:52:12,894] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:52:13,215] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 01:52:13,643] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291133}
+[ INFO/2024-03-13 01:52:18,274] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:52:19,234] websocket: Websocket connected
+[ INFO/2024-03-13 01:52:19,264] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:52:19,387] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:52:19,845] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 01:52:20,537] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291139}
+[ERROR/2024-03-13 01:52:20,539] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291139}
+[ INFO/2024-03-13 01:52:25,320] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:52:26,079] websocket: Websocket connected
+[ INFO/2024-03-13 01:52:26,190] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:52:26,307] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 01:52:26,787] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291146}
+[ INFO/2024-03-13 01:52:31,820] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:52:32,575] websocket: Websocket connected
+[ INFO/2024-03-13 01:52:32,705] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:52:32,833] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:52:33,340] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 01:53:00,679] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291180}
+[ INFO/2024-03-13 01:53:05,489] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:53:06,424] websocket: Websocket connected
+[ INFO/2024-03-13 01:53:06,472] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:53:06,583] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:53:07,032] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 01:53:07,514] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291187}
+[ERROR/2024-03-13 01:53:07,515] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291187}
+[ INFO/2024-03-13 01:53:12,409] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:53:13,224] websocket: Websocket connected
+[ INFO/2024-03-13 01:53:13,329] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:53:13,461] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:53:13,955] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 01:53:14,357] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291193}
+[ INFO/2024-03-13 01:53:19,104] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:53:20,033] websocket: Websocket connected
+[ INFO/2024-03-13 01:53:20,089] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:53:20,236] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:53:20,547] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 01:53:21,083] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291200}
+[ INFO/2024-03-13 01:53:26,136] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:53:26,925] websocket: Websocket connected
+[ INFO/2024-03-13 01:53:26,963] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:53:27,075] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:53:27,421] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 01:53:27,813] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291207}
+[ INFO/2024-03-13 01:53:32,712] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:53:33,616] websocket: Websocket connected
+[ INFO/2024-03-13 01:53:33,651] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:53:33,768] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:53:34,329] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 01:54:00,927] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291240}
+[ INFO/2024-03-13 01:54:05,525] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:54:06,446] websocket: Websocket connected
+[ INFO/2024-03-13 01:54:06,563] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:54:06,677] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:54:07,018] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 01:54:07,525] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291247}
+[ INFO/2024-03-13 01:54:12,383] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:54:13,172] websocket: Websocket connected
+[ INFO/2024-03-13 01:54:13,208] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:54:13,325] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:54:13,761] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 01:54:14,180] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291253}
+[ERROR/2024-03-13 01:54:14,182] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291253}
+[ INFO/2024-03-13 01:54:19,091] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:54:20,006] websocket: Websocket connected
+[ INFO/2024-03-13 01:54:20,043] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:54:20,160] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:54:20,575] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 01:54:21,014] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291260}
+[ INFO/2024-03-13 01:54:25,783] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:54:26,568] websocket: Websocket connected
+[ INFO/2024-03-13 01:54:26,586] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:54:26,696] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:54:27,614] quotexpy.api: Waiting for authorization... Elapsed time: 1 seconds.
+[ INFO/2024-03-13 01:54:27,718] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 01:54:28,140] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291267}
+[ERROR/2024-03-13 01:54:28,147] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291267}
+[ INFO/2024-03-13 01:54:33,138] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:54:33,928] websocket: Websocket connected
+[ INFO/2024-03-13 01:54:33,955] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:54:34,072] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:54:34,503] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 01:55:01,063] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291300}
+[ INFO/2024-03-13 01:55:05,597] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:55:06,535] websocket: Websocket connected
+[ INFO/2024-03-13 01:55:06,597] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:55:06,749] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:55:07,071] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 01:55:07,637] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291307}
+[ INFO/2024-03-13 01:55:12,496] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:55:13,399] websocket: Websocket connected
+[ INFO/2024-03-13 01:55:13,483] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:55:13,621] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:55:14,082] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 01:55:14,584] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291314}
+[ INFO/2024-03-13 01:55:19,492] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:55:20,324] websocket: Websocket connected
+[ INFO/2024-03-13 01:55:20,383] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:55:20,498] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:55:20,945] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 01:55:21,417] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291320}
+[ERROR/2024-03-13 01:55:21,419] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291320}
+[ INFO/2024-03-13 01:55:26,237] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:55:27,122] websocket: Websocket connected
+[ INFO/2024-03-13 01:55:27,252] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:55:27,369] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:55:27,679] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 01:55:28,097] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291327}
+[ INFO/2024-03-13 01:55:33,165] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:55:33,917] websocket: Websocket connected
+[ INFO/2024-03-13 01:55:34,083] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:55:34,212] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 01:56:00,520] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291360}
+[ INFO/2024-03-13 01:56:05,634] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:56:06,593] websocket: Websocket connected
+[ INFO/2024-03-13 01:56:06,666] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:56:06,971] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 01:56:07,910] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291367}
+[ INFO/2024-03-13 01:56:12,800] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:56:13,701] websocket: Websocket connected
+[ INFO/2024-03-13 01:56:13,763] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:56:13,898] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:56:14,427] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 01:56:14,891] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291374}
+[ INFO/2024-03-13 01:56:19,764] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:56:20,542] websocket: Websocket connected
+[ INFO/2024-03-13 01:56:20,746] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:56:20,904] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:56:21,322] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 01:56:21,781] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291381}
+[ INFO/2024-03-13 01:56:27,357] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:56:28,216] websocket: Websocket connected
+[ INFO/2024-03-13 01:56:28,253] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:56:28,359] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:56:28,739] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 01:56:29,450] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291389}
+[ INFO/2024-03-13 01:56:34,318] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:56:35,237] websocket: Websocket connected
+[ INFO/2024-03-13 01:56:35,346] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:56:35,481] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:56:35,940] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 01:57:00,948] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291420}
+[ INFO/2024-03-13 01:57:05,702] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:57:06,564] websocket: Websocket connected
+[ INFO/2024-03-13 01:57:06,609] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:57:06,736] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:57:07,023] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 01:57:07,587] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291427}
+[ INFO/2024-03-13 01:57:12,402] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:57:13,201] websocket: Websocket connected
+[ INFO/2024-03-13 01:57:13,520] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:57:13,631] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:57:14,050] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:57:14,987] quotexpy.api: Waiting for authorization... Elapsed time: 1 seconds.
+[ INFO/2024-03-13 01:57:16,020] quotexpy.api: Waiting for authorization... Elapsed time: 2 seconds.
+[ INFO/2024-03-13 01:57:17,013] quotexpy.api: Waiting for authorization... Elapsed time: 3 seconds.
+[ INFO/2024-03-13 01:57:17,998] quotexpy.api: Waiting for authorization... Elapsed time: 4 seconds.
+[ INFO/2024-03-13 01:57:19,026] quotexpy.api: Waiting for authorization... Elapsed time: 5 seconds.
+[ INFO/2024-03-13 01:57:19,995] quotexpy.api: Waiting for authorization... Elapsed time: 6 seconds.
+[ INFO/2024-03-13 01:57:20,973] quotexpy.api: Waiting for authorization... Elapsed time: 7 seconds.
+[ INFO/2024-03-13 01:57:22,024] quotexpy.api: Waiting for authorization... Elapsed time: 8 seconds.
+[ INFO/2024-03-13 01:57:23,025] quotexpy.api: Waiting for authorization... Elapsed time: 9 seconds.
+[ INFO/2024-03-13 01:57:24,030] quotexpy.api: Waiting for authorization... Elapsed time: 10 seconds.
+[ERROR/2024-03-13 01:57:24,042] quotexpy.api: Sending authorization with SSID '4wsMzzXxyVhFtOaThdWPgzIvLqJ6Wlvtb9nKo6zK' took too long to respond
+[ERROR/2024-03-13 01:57:24,623] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291444}
+[ INFO/2024-03-13 01:57:29,381] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:57:30,232] websocket: Websocket connected
+[ INFO/2024-03-13 01:57:30,272] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:57:30,410] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:57:30,839] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 01:58:01,020] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291480}
+[ERROR/2024-03-13 01:58:01,023] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291480}
+[ INFO/2024-03-13 01:58:05,746] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:58:06,698] websocket: Websocket connected
+[ INFO/2024-03-13 01:58:06,883] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:58:07,014] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:58:07,371] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 01:58:07,752] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291487}
+[ INFO/2024-03-13 01:58:12,764] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:58:13,546] websocket: Websocket connected
+[ INFO/2024-03-13 01:58:13,574] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:58:13,776] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:58:14,207] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 01:58:15,000] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291494}
+[ INFO/2024-03-13 01:58:19,896] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:58:20,679] websocket: Websocket connected
+[ INFO/2024-03-13 01:58:20,737] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:58:20,860] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:58:21,246] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 01:58:22,203] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291501}
+[ERROR/2024-03-13 01:58:22,205] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291501}
+[ INFO/2024-03-13 01:58:26,857] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:58:27,581] websocket: Websocket connected
+[ INFO/2024-03-13 01:58:27,622] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:58:27,735] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:58:28,052] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 01:58:28,378] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291508}
+[ INFO/2024-03-13 01:58:33,414] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:58:34,223] websocket: Websocket connected
+[ INFO/2024-03-13 01:58:34,248] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:58:34,359] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:58:34,778] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 01:59:00,919] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291540}
+[ERROR/2024-03-13 01:59:00,925] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291540}
+[ INFO/2024-03-13 01:59:05,672] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:59:06,416] websocket: Websocket connected
+[ INFO/2024-03-13 01:59:06,522] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:59:06,670] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:59:07,021] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 01:59:07,346] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291547}
+[ INFO/2024-03-13 01:59:12,213] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:59:13,195] websocket: Websocket connected
+[ INFO/2024-03-13 01:59:13,275] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:59:13,382] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:59:13,696] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 01:59:14,054] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291553}
+[ INFO/2024-03-13 01:59:18,927] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 01:59:19,720] websocket: Websocket connected
+[ INFO/2024-03-13 01:59:19,991] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 01:59:20,136] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:59:20,623] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 01:59:21,516] quotexpy.api: Waiting for authorization... Elapsed time: 1 seconds.
+[ INFO/2024-03-13 01:59:22,545] quotexpy.api: Waiting for authorization... Elapsed time: 2 seconds.
+[ INFO/2024-03-13 01:59:23,459] quotexpy.api: Waiting for authorization... Elapsed time: 3 seconds.
+[ INFO/2024-03-13 01:59:24,469] quotexpy.api: Waiting for authorization... Elapsed time: 4 seconds.
+[ INFO/2024-03-13 01:59:25,615] quotexpy.api: Waiting for authorization... Elapsed time: 5 seconds.
+[ INFO/2024-03-13 01:59:26,475] quotexpy.api: Waiting for authorization... Elapsed time: 6 seconds.
+[ INFO/2024-03-13 01:59:27,449] quotexpy.api: Waiting for authorization... Elapsed time: 7 seconds.
+[ INFO/2024-03-13 01:59:28,476] quotexpy.api: Waiting for authorization... Elapsed time: 8 seconds.
+[ INFO/2024-03-13 01:59:29,449] quotexpy.api: Waiting for authorization... Elapsed time: 9 seconds.
+[ INFO/2024-03-13 01:59:30,497] quotexpy.api: Waiting for authorization... Elapsed time: 10 seconds.
+[ERROR/2024-03-13 01:59:30,501] quotexpy.api: Sending authorization with SSID '4wsMzzXxyVhFtOaThdWPgzIvLqJ6Wlvtb9nKo6zK' took too long to respond
+[ INFO/2024-03-13 01:59:50,827] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:00:00,250] quotexpy.api: Websocket connection closed.
+[ INFO/2024-03-13 02:00:00,251] quotexpy.api: Websocket connection closed.
+[ INFO/2024-03-13 02:00:06,151] websocket: Websocket connected
+[ INFO/2024-03-13 02:00:06,236] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:00:06,350] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:00:06,758] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 02:00:07,649] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291606}
+[ERROR/2024-03-13 02:00:07,651] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291606}
+[ INFO/2024-03-13 02:00:12,225] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:00:13,173] websocket: Websocket connected
+[ INFO/2024-03-13 02:00:13,305] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:00:13,425] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 02:00:14,652] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291613}
+[ERROR/2024-03-13 02:00:14,661] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291613}
+[ INFO/2024-03-13 02:00:19,015] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:00:19,785] websocket: Websocket connected
+[ INFO/2024-03-13 02:00:19,843] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:00:19,956] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 02:00:20,433] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291620}
+[ERROR/2024-03-13 02:00:20,435] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291620}
+[ INFO/2024-03-13 02:00:25,462] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:00:26,255] websocket: Websocket connected
+[ INFO/2024-03-13 02:00:26,330] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:00:26,455] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:00:27,432] quotexpy.api: Waiting for authorization... Elapsed time: 1 seconds.
+[ INFO/2024-03-13 02:00:28,463] quotexpy.api: Waiting for authorization... Elapsed time: 2 seconds.
+[ERROR/2024-03-13 02:00:29,765] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291629}
+[ INFO/2024-03-13 02:00:34,848] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:00:35,708] websocket: Websocket connected
+[ INFO/2024-03-13 02:00:35,783] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:00:35,923] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:00:36,260] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 02:01:00,959] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291660}
+[ERROR/2024-03-13 02:01:00,964] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291660}
+[ INFO/2024-03-13 02:01:05,552] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:01:06,361] websocket: Websocket connected
+[ INFO/2024-03-13 02:01:06,491] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:01:06,613] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 02:01:07,249] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291666}
+[ INFO/2024-03-13 02:01:12,116] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:01:12,890] websocket: Websocket connected
+[ INFO/2024-03-13 02:01:12,997] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:01:13,126] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:01:13,655] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:01:14,617] quotexpy.api: Waiting for authorization... Elapsed time: 1 seconds.
+[ INFO/2024-03-13 02:01:15,539] quotexpy.api: Waiting for authorization... Elapsed time: 2 seconds.
+[ INFO/2024-03-13 02:01:16,609] quotexpy.api: Waiting for authorization... Elapsed time: 3 seconds.
+[ INFO/2024-03-13 02:01:17,636] quotexpy.api: Waiting for authorization... Elapsed time: 4 seconds.
+[ INFO/2024-03-13 02:01:18,648] quotexpy.api: Waiting for authorization... Elapsed time: 5 seconds.
+[ INFO/2024-03-13 02:01:19,579] quotexpy.api: Waiting for authorization... Elapsed time: 6 seconds.
+[ INFO/2024-03-13 02:01:20,574] quotexpy.api: Waiting for authorization... Elapsed time: 7 seconds.
+[ INFO/2024-03-13 02:01:21,575] quotexpy.api: Waiting for authorization... Elapsed time: 8 seconds.
+[ INFO/2024-03-13 02:01:22,631] quotexpy.api: Waiting for authorization... Elapsed time: 9 seconds.
+[ INFO/2024-03-13 02:01:23,626] quotexpy.api: Waiting for authorization... Elapsed time: 10 seconds.
+[ERROR/2024-03-13 02:01:23,626] quotexpy.api: Sending authorization with SSID '4wsMzzXxyVhFtOaThdWPgzIvLqJ6Wlvtb9nKo6zK' took too long to respond
+[ERROR/2024-03-13 02:01:23,946] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291683}
+[ INFO/2024-03-13 02:01:29,055] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:01:29,997] websocket: Websocket connected
+[ INFO/2024-03-13 02:01:30,155] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:01:30,341] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:01:30,711] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 02:02:00,654] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291720}
+[ERROR/2024-03-13 02:02:00,660] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291720}
+[ INFO/2024-03-13 02:02:05,133] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:02:06,287] websocket: Websocket connected
+[ INFO/2024-03-13 02:02:06,441] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:02:06,596] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 02:02:07,512] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291727}
+[ERROR/2024-03-13 02:02:07,514] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291727}
+[ INFO/2024-03-13 02:02:12,336] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:02:13,281] websocket: Websocket connected
+[ INFO/2024-03-13 02:02:13,413] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:02:13,540] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:02:13,817] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 02:02:14,286] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291733}
+[ INFO/2024-03-13 02:02:19,362] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:02:20,227] websocket: Websocket connected
+[ INFO/2024-03-13 02:02:20,304] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:02:20,416] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:02:20,730] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 02:02:21,158] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291740}
+[ INFO/2024-03-13 02:02:25,865] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:02:26,784] websocket: Websocket connected
+[ INFO/2024-03-13 02:02:26,844] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:02:26,967] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:02:27,378] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 02:02:27,816] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291747}
+[ INFO/2024-03-13 02:02:32,845] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:02:33,606] websocket: Websocket connected
+[ INFO/2024-03-13 02:02:33,682] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:02:33,796] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:02:34,178] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 02:03:00,509] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291780}
+[ERROR/2024-03-13 02:03:00,514] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291780}
+[ INFO/2024-03-13 02:03:05,147] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:03:06,045] websocket: Websocket connected
+[ INFO/2024-03-13 02:03:06,205] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:03:06,346] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:03:06,630] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 02:03:07,238] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291786}
+[ INFO/2024-03-13 02:03:12,038] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:03:12,986] websocket: Websocket connected
+[ INFO/2024-03-13 02:03:13,169] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:03:13,335] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 02:03:13,829] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291793}
+[ INFO/2024-03-13 02:03:18,755] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:03:19,835] websocket: Websocket connected
+[ INFO/2024-03-13 02:03:19,932] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:03:20,073] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 02:03:20,679] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291800}
+[ INFO/2024-03-13 02:03:25,588] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:03:26,369] websocket: Websocket connected
+[ INFO/2024-03-13 02:03:26,465] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:03:26,588] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:03:26,941] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 02:03:27,183] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291806}
+[ERROR/2024-03-13 02:03:27,185] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291806}
+[ INFO/2024-03-13 02:03:32,002] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:03:32,950] websocket: Websocket connected
+[ INFO/2024-03-13 02:03:33,087] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:03:33,226] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 02:04:00,779] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291840}
+[ INFO/2024-03-13 02:04:06,426] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:04:07,215] websocket: Websocket connected
+[ INFO/2024-03-13 02:04:07,279] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:04:07,430] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:04:07,697] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 02:04:08,483] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291848}
+[ERROR/2024-03-13 02:04:08,485] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291848}
+[ INFO/2024-03-13 02:04:13,191] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:04:14,243] websocket: Websocket connected
+[ INFO/2024-03-13 02:04:14,271] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:04:14,387] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:04:14,707] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 02:04:15,955] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291854}
+[ERROR/2024-03-13 02:04:15,958] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291854}
+[ INFO/2024-03-13 02:04:19,913] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:04:20,748] websocket: Websocket connected
+[ INFO/2024-03-13 02:04:20,778] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:04:20,893] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:04:21,321] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 02:04:21,949] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291861}
+[ERROR/2024-03-13 02:04:21,950] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291861}
+[ INFO/2024-03-13 02:04:26,817] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:04:27,990] websocket: Websocket connected
+[ INFO/2024-03-13 02:04:28,061] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:04:28,177] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 02:04:28,837] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291868}
+[ INFO/2024-03-13 02:04:33,592] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:04:34,459] websocket: Websocket connected
+[ INFO/2024-03-13 02:04:34,491] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:04:34,604] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:04:35,015] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 02:05:00,623] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291900}
+[ERROR/2024-03-13 02:05:00,627] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291900}
+[ INFO/2024-03-13 02:05:05,605] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:05:06,393] websocket: Websocket connected
+[ INFO/2024-03-13 02:05:06,454] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:05:06,567] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:05:06,978] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 02:05:07,828] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291907}
+[ERROR/2024-03-13 02:05:07,833] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291907}
+[ INFO/2024-03-13 02:05:12,521] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:05:13,313] websocket: Websocket connected
+[ INFO/2024-03-13 02:05:13,392] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:05:13,507] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:05:13,870] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 02:05:14,346] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291914}
+[ INFO/2024-03-13 02:05:19,298] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:05:20,239] websocket: Websocket connected
+[ INFO/2024-03-13 02:05:20,277] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:05:20,390] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:05:20,697] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 02:05:20,902] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291920}
+[ INFO/2024-03-13 02:05:25,927] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:05:26,727] websocket: Websocket connected
+[ INFO/2024-03-13 02:05:26,832] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:05:26,982] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:05:27,441] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 02:05:27,966] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291927}
+[ INFO/2024-03-13 02:05:32,908] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:05:33,776] websocket: Websocket connected
+[ INFO/2024-03-13 02:05:33,807] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:05:33,944] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:05:34,379] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 02:06:00,336] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291960}
+[ERROR/2024-03-13 02:06:00,339] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291960}
+[ INFO/2024-03-13 02:06:05,379] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:06:06,143] websocket: Websocket connected
+[ INFO/2024-03-13 02:06:06,180] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:06:06,289] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:06:06,708] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 02:06:07,175] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291966}
+[ INFO/2024-03-13 02:06:12,016] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:06:12,785] websocket: Websocket connected
+[ INFO/2024-03-13 02:06:12,872] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:06:13,075] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:06:13,321] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 02:06:13,797] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291973}
+[ INFO/2024-03-13 02:06:18,641] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:06:19,472] websocket: Websocket connected
+[ INFO/2024-03-13 02:06:19,502] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:06:19,619] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:06:19,949] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 02:06:20,468] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291979}
+[ INFO/2024-03-13 02:06:25,210] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:06:26,041] websocket: Websocket connected
+[ INFO/2024-03-13 02:06:26,086] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:06:26,191] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:06:26,605] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 02:06:27,100] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710291986}
+[ INFO/2024-03-13 02:06:31,675] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:06:32,907] websocket: Websocket connected
+[ INFO/2024-03-13 02:06:32,990] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:06:33,106] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:06:33,953] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 02:07:00,464] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710292020}
+[ INFO/2024-03-13 02:07:05,447] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:07:06,304] websocket: Websocket connected
+[ INFO/2024-03-13 02:07:06,430] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:07:06,551] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:07:06,876] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 02:07:07,267] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710292026}
+[ERROR/2024-03-13 02:07:07,276] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710292026}
+[ INFO/2024-03-13 02:07:12,119] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:07:12,927] websocket: Websocket connected
+[ INFO/2024-03-13 02:07:12,957] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:07:13,063] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:07:13,481] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 02:07:14,017] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710292033}
+[ INFO/2024-03-13 02:07:18,799] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:07:19,603] websocket: Websocket connected
+[ INFO/2024-03-13 02:07:19,632] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:07:19,747] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:07:20,232] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 02:07:20,726] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710292040}
+[ INFO/2024-03-13 02:07:25,808] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:07:26,745] websocket: Websocket connected
+[ INFO/2024-03-13 02:07:26,777] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:07:26,885] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:07:27,335] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 02:07:27,787] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710292047}
+[ INFO/2024-03-13 02:07:32,532] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:07:33,455] websocket: Websocket connected
+[ INFO/2024-03-13 02:07:33,482] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:07:33,597] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:07:34,030] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 02:08:00,620] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710292080}
+[ INFO/2024-03-13 02:08:05,371] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:08:06,213] websocket: Websocket connected
+[ INFO/2024-03-13 02:08:06,214] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:08:06,326] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:08:06,732] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 02:08:07,395] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710292086}
+[ INFO/2024-03-13 02:08:12,551] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:08:13,437] websocket: Websocket connected
+[ INFO/2024-03-13 02:08:13,512] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:08:13,643] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:08:14,107] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:08:15,001] quotexpy.api: Waiting for authorization... Elapsed time: 1 seconds.
+[ERROR/2024-03-13 02:08:16,630] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710292095}
+[ERROR/2024-03-13 02:08:16,632] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710292095}
+[ INFO/2024-03-13 02:08:21,182] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:08:21,923] websocket: Websocket connected
+[ INFO/2024-03-13 02:08:22,001] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:08:22,125] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:08:22,543] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 02:08:23,491] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710292102}
+[ INFO/2024-03-13 02:08:28,177] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:08:29,024] websocket: Websocket connected
+[ INFO/2024-03-13 02:08:29,052] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:08:29,167] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:08:29,475] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 02:08:29,919] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710292109}
+[ INFO/2024-03-13 02:08:34,683] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:08:35,416] websocket: Websocket connected
+[ INFO/2024-03-13 02:08:35,555] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:08:35,703] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:08:36,059] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 02:09:00,628] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710292140}
+[ERROR/2024-03-13 02:09:00,635] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710292140}
+[ INFO/2024-03-13 02:09:05,395] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:09:06,173] websocket: Websocket connected
+[ INFO/2024-03-13 02:09:06,234] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:09:06,376] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:09:06,804] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 02:09:07,430] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710292147}
+[ INFO/2024-03-13 02:09:12,315] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:09:13,188] websocket: Websocket connected
+[ INFO/2024-03-13 02:09:13,217] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:09:13,333] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:09:13,759] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 02:09:14,105] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710292153}
+[ INFO/2024-03-13 02:09:18,964] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:09:19,890] websocket: Websocket connected
+[ INFO/2024-03-13 02:09:19,921] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:09:20,034] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:09:20,465] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 02:09:20,890] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710292160}
+[ INFO/2024-03-13 02:09:25,695] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:09:26,493] websocket: Websocket connected
+[ INFO/2024-03-13 02:09:26,524] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:09:26,636] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:09:27,060] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 02:09:27,535] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710292167}
+[ERROR/2024-03-13 02:09:27,536] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710292167}
+[ INFO/2024-03-13 02:09:32,461] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:09:33,446] websocket: Websocket connected
+[ INFO/2024-03-13 02:09:33,469] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:09:33,582] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:09:34,095] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 02:10:00,558] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710292200}
+[ INFO/2024-03-13 02:10:05,502] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:10:06,336] websocket: Websocket connected
+[ INFO/2024-03-13 02:10:06,370] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:10:06,494] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:10:06,955] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 02:10:08,397] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710292206}
+[ERROR/2024-03-13 02:10:08,403] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710292206}
+[ INFO/2024-03-13 02:10:12,123] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:10:12,966] websocket: Websocket connected
+[ INFO/2024-03-13 02:10:13,091] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:10:13,226] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:10:13,559] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 02:10:14,133] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710292213}
+[ INFO/2024-03-13 02:10:18,930] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:10:19,758] websocket: Websocket connected
+[ INFO/2024-03-13 02:10:19,843] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:10:19,964] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:10:20,277] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 02:10:20,722] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710292220}
+[ INFO/2024-03-13 02:10:25,445] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:10:26,314] websocket: Websocket connected
+[ INFO/2024-03-13 02:10:26,344] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:10:26,459] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:10:26,873] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 02:10:27,269] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710292227}
+[ INFO/2024-03-13 02:10:32,098] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:10:33,075] websocket: Websocket connected
+[ INFO/2024-03-13 02:10:33,106] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:10:33,220] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:10:33,526] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 02:11:00,395] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710292260}
+[ERROR/2024-03-13 02:11:00,403] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710292260}
+[ INFO/2024-03-13 02:11:05,362] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:11:06,138] websocket: Websocket connected
+[ INFO/2024-03-13 02:11:06,283] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:11:06,413] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:11:06,744] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:11:07,678] quotexpy.api: Waiting for authorization... Elapsed time: 1 seconds.
+[ INFO/2024-03-13 02:11:08,695] quotexpy.api: Waiting for authorization... Elapsed time: 2 seconds.
+[ INFO/2024-03-13 02:11:09,711] quotexpy.api: Waiting for authorization... Elapsed time: 3 seconds.
+[ INFO/2024-03-13 02:11:10,729] quotexpy.api: Waiting for authorization... Elapsed time: 4 seconds.
+[ INFO/2024-03-13 02:11:11,642] quotexpy.api: Waiting for authorization... Elapsed time: 5 seconds.
+[ INFO/2024-03-13 02:11:12,657] quotexpy.api: Waiting for authorization... Elapsed time: 6 seconds.
+[ INFO/2024-03-13 02:11:13,670] quotexpy.api: Waiting for authorization... Elapsed time: 7 seconds.
+[ INFO/2024-03-13 02:11:14,683] quotexpy.api: Waiting for authorization... Elapsed time: 8 seconds.
+[ INFO/2024-03-13 02:11:15,700] quotexpy.api: Waiting for authorization... Elapsed time: 9 seconds.
+[ INFO/2024-03-13 02:11:16,712] quotexpy.api: Waiting for authorization... Elapsed time: 10 seconds.
+[ERROR/2024-03-13 02:11:16,712] quotexpy.api: Sending authorization with SSID '4wsMzzXxyVhFtOaThdWPgzIvLqJ6Wlvtb9nKo6zK' took too long to respond
+[ERROR/2024-03-13 02:11:17,062] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710292276}
+[ INFO/2024-03-13 02:11:21,911] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:11:22,856] websocket: Websocket connected
+[ INFO/2024-03-13 02:11:22,887] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:11:22,999] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 02:11:23,736] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710292283}
+[ INFO/2024-03-13 02:11:28,534] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:11:29,501] websocket: Websocket connected
+[ INFO/2024-03-13 02:11:29,539] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:11:29,651] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:11:30,059] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:11:30,973] quotexpy.api: Waiting for authorization... Elapsed time: 1 seconds.
+[ INFO/2024-03-13 02:11:31,988] quotexpy.api: Waiting for authorization... Elapsed time: 2 seconds.
+[ INFO/2024-03-13 02:11:33,000] quotexpy.api: Waiting for authorization... Elapsed time: 3 seconds.
+[ INFO/2024-03-13 02:11:34,013] quotexpy.api: Waiting for authorization... Elapsed time: 4 seconds.
+[ INFO/2024-03-13 02:11:35,028] quotexpy.api: Waiting for authorization... Elapsed time: 5 seconds.
+[ INFO/2024-03-13 02:11:36,041] quotexpy.api: Waiting for authorization... Elapsed time: 6 seconds.
+[ INFO/2024-03-13 02:11:37,055] quotexpy.api: Waiting for authorization... Elapsed time: 7 seconds.
+[ INFO/2024-03-13 02:11:37,974] quotexpy.api: Waiting for authorization... Elapsed time: 8 seconds.
+[ INFO/2024-03-13 02:11:38,996] quotexpy.api: Waiting for authorization... Elapsed time: 9 seconds.
+[ INFO/2024-03-13 02:11:40,009] quotexpy.api: Waiting for authorization... Elapsed time: 10 seconds.
+[ERROR/2024-03-13 02:11:40,009] quotexpy.api: Sending authorization with SSID '4wsMzzXxyVhFtOaThdWPgzIvLqJ6Wlvtb9nKo6zK' took too long to respond
+[ERROR/2024-03-13 02:12:00,295] quotexpy.ws.client: Connection to remote host was lost.
+[ERROR/2024-03-13 02:12:00,296] websocket: Connection to remote host was lost. - goodbye
+[ INFO/2024-03-13 02:12:00,296] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:12:06,100] websocket: Websocket connected
+[ INFO/2024-03-13 02:12:06,131] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:12:06,243] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:12:06,650] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 02:12:07,063] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710292326}
+[ INFO/2024-03-13 02:12:11,932] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:12:12,909] websocket: Websocket connected
+[ INFO/2024-03-13 02:12:12,938] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:12:13,052] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:12:13,459] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 02:12:14,360] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710292333}
+[ERROR/2024-03-13 02:12:14,362] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710292333}
+[ INFO/2024-03-13 02:12:18,767] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:12:19,833] websocket: Websocket connected
+[ INFO/2024-03-13 02:12:19,864] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:12:19,976] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:12:20,381] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 02:12:20,700] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710292340}
+[ INFO/2024-03-13 02:12:25,559] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:12:26,563] websocket: Websocket connected
+[ INFO/2024-03-13 02:12:26,593] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:12:26,698] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:12:27,207] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 02:12:27,623] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710292347}
+[ERROR/2024-03-13 02:12:27,625] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710292347}
+[ INFO/2024-03-13 02:12:32,630] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:12:33,444] websocket: Websocket connected
+[ INFO/2024-03-13 02:12:33,476] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:12:33,587] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:12:33,993] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:12:34,904] quotexpy.api: Waiting for authorization... Elapsed time: 1 seconds.
+[ INFO/2024-03-13 02:12:35,922] quotexpy.api: Waiting for authorization... Elapsed time: 2 seconds.
+[ INFO/2024-03-13 02:12:36,939] quotexpy.api: Waiting for authorization... Elapsed time: 3 seconds.
+[ INFO/2024-03-13 02:12:37,951] quotexpy.api: Waiting for authorization... Elapsed time: 4 seconds.
+[ INFO/2024-03-13 02:12:38,979] quotexpy.api: Waiting for authorization... Elapsed time: 5 seconds.
+[ INFO/2024-03-13 02:12:39,965] quotexpy.api: Waiting for authorization... Elapsed time: 6 seconds.
+[ INFO/2024-03-13 02:12:40,940] quotexpy.api: Waiting for authorization... Elapsed time: 7 seconds.
+[ INFO/2024-03-13 02:12:41,977] quotexpy.api: Waiting for authorization... Elapsed time: 8 seconds.
+[ INFO/2024-03-13 02:12:43,016] quotexpy.api: Waiting for authorization... Elapsed time: 9 seconds.
+[ INFO/2024-03-13 02:12:43,933] quotexpy.api: Waiting for authorization... Elapsed time: 10 seconds.
+[ERROR/2024-03-13 02:12:43,933] quotexpy.api: Sending authorization with SSID '4wsMzzXxyVhFtOaThdWPgzIvLqJ6Wlvtb9nKo6zK' took too long to respond
+[ERROR/2024-03-13 02:13:00,509] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710292380}
+[ INFO/2024-03-13 02:13:05,377] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:13:06,122] websocket: Websocket connected
+[ INFO/2024-03-13 02:13:06,201] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:13:06,311] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:13:06,754] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:13:07,660] quotexpy.api: Waiting for authorization... Elapsed time: 1 seconds.
+[ INFO/2024-03-13 02:13:08,698] quotexpy.api: Waiting for authorization... Elapsed time: 2 seconds.
+[ INFO/2024-03-13 02:13:09,696] quotexpy.api: Waiting for authorization... Elapsed time: 3 seconds.
+[ INFO/2024-03-13 02:13:10,701] quotexpy.api: Waiting for authorization... Elapsed time: 4 seconds.
+[ INFO/2024-03-13 02:13:11,716] quotexpy.api: Waiting for authorization... Elapsed time: 5 seconds.
+[ INFO/2024-03-13 02:13:12,654] quotexpy.api: Waiting for authorization... Elapsed time: 6 seconds.
+[ INFO/2024-03-13 02:13:13,688] quotexpy.api: Waiting for authorization... Elapsed time: 7 seconds.
+[ INFO/2024-03-13 02:13:14,720] quotexpy.api: Waiting for authorization... Elapsed time: 8 seconds.
+[ INFO/2024-03-13 02:13:15,644] quotexpy.api: Waiting for authorization... Elapsed time: 9 seconds.
+[ INFO/2024-03-13 02:13:16,651] quotexpy.api: Waiting for authorization... Elapsed time: 10 seconds.
+[ERROR/2024-03-13 02:13:16,652] quotexpy.api: Sending authorization with SSID '4wsMzzXxyVhFtOaThdWPgzIvLqJ6Wlvtb9nKo6zK' took too long to respond
+[ERROR/2024-03-13 02:13:16,986] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710292396}
+[ INFO/2024-03-13 02:13:24,776] quotexpy.ws.client: Websocket connection closed.
+[ERROR/2024-03-13 02:13:46,173] quotexpy.ws.client: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[ERROR/2024-03-13 02:13:46,183] websocket: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond - goodbye
+[ INFO/2024-03-13 02:13:46,184] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:13:52,121] websocket: Websocket connected
+[ INFO/2024-03-13 02:13:52,184] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:13:52,300] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:13:52,800] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:13:53,780] quotexpy.api: Waiting for authorization... Elapsed time: 1 seconds.
+[ INFO/2024-03-13 02:13:54,695] quotexpy.api: Waiting for authorization... Elapsed time: 2 seconds.
+[ INFO/2024-03-13 02:13:55,720] quotexpy.api: Waiting for authorization... Elapsed time: 3 seconds.
+[ INFO/2024-03-13 02:13:56,854] quotexpy.api: Waiting for authorization... Elapsed time: 4 seconds.
+[ INFO/2024-03-13 02:13:57,761] quotexpy.api: Waiting for authorization... Elapsed time: 5 seconds.
+[ INFO/2024-03-13 02:13:58,744] quotexpy.api: Waiting for authorization... Elapsed time: 6 seconds.
+[ INFO/2024-03-13 02:13:59,790] quotexpy.api: Waiting for authorization... Elapsed time: 7 seconds.
+[ INFO/2024-03-13 02:14:00,723] quotexpy.api: Waiting for authorization... Elapsed time: 8 seconds.
+[ERROR/2024-03-13 02:14:01,661] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710292441}
+[ERROR/2024-03-13 02:14:01,663] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710292441}
+[ INFO/2024-03-13 02:14:06,672] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:14:07,485] websocket: Websocket connected
+[ INFO/2024-03-13 02:14:07,561] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:14:07,680] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:14:08,022] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 02:14:08,273] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710292448}
+[ERROR/2024-03-13 02:14:08,275] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710292448}
+[ INFO/2024-03-13 02:14:13,211] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:14:14,208] websocket: Websocket connected
+[ INFO/2024-03-13 02:14:14,300] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:14:14,425] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:14:14,798] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:14:15,723] quotexpy.api: Waiting for authorization... Elapsed time: 1 seconds.
+[ INFO/2024-03-13 02:14:16,747] quotexpy.api: Waiting for authorization... Elapsed time: 2 seconds.
+[ INFO/2024-03-13 02:14:17,704] quotexpy.api: Waiting for authorization... Elapsed time: 3 seconds.
+[ INFO/2024-03-13 02:14:18,704] quotexpy.api: Waiting for authorization... Elapsed time: 4 seconds.
+[ INFO/2024-03-13 02:14:19,747] quotexpy.api: Waiting for authorization... Elapsed time: 5 seconds.
+[ INFO/2024-03-13 02:14:20,760] quotexpy.api: Waiting for authorization... Elapsed time: 6 seconds.
+[ INFO/2024-03-13 02:14:21,676] quotexpy.api: Waiting for authorization... Elapsed time: 7 seconds.
+[ INFO/2024-03-13 02:14:22,725] quotexpy.api: Waiting for authorization... Elapsed time: 8 seconds.
+[ INFO/2024-03-13 02:14:23,708] quotexpy.api: Waiting for authorization... Elapsed time: 9 seconds.
+[ INFO/2024-03-13 02:14:24,760] quotexpy.api: Waiting for authorization... Elapsed time: 10 seconds.
+[ERROR/2024-03-13 02:14:24,760] quotexpy.api: Sending authorization with SSID '4wsMzzXxyVhFtOaThdWPgzIvLqJ6Wlvtb9nKo6zK' took too long to respond
+[ERROR/2024-03-13 02:14:25,047] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710292464}
+[ INFO/2024-03-13 02:14:29,979] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:14:30,931] websocket: Websocket connected
+[ INFO/2024-03-13 02:14:30,958] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:14:31,072] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:14:31,384] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 02:15:00,827] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710292500}
+[ INFO/2024-03-13 02:15:05,557] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:15:06,397] websocket: Websocket connected
+[ INFO/2024-03-13 02:15:06,507] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:15:06,633] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:15:06,945] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 02:15:07,362] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710292506}
+[ INFO/2024-03-13 02:15:12,093] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:15:13,050] websocket: Websocket connected
+[ INFO/2024-03-13 02:15:13,078] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:15:13,193] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:15:13,604] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 02:15:14,398] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710292513}
+[ERROR/2024-03-13 02:15:14,400] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710292513}
+[ INFO/2024-03-13 02:15:19,022] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:15:19,846] websocket: Websocket connected
+[ INFO/2024-03-13 02:15:19,905] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:15:20,021] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:15:20,536] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 02:15:21,022] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710292520}
+[ INFO/2024-03-13 02:15:25,959] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:15:26,789] websocket: Websocket connected
+[ INFO/2024-03-13 02:15:26,873] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:15:26,999] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:15:27,386] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 02:15:27,909] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710292527}
+[ INFO/2024-03-13 02:15:32,897] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:15:33,913] websocket: Websocket connected
+[ INFO/2024-03-13 02:15:33,945] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:15:34,057] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:15:34,463] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 02:16:00,972] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710292560}
+[ERROR/2024-03-13 02:16:00,980] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710292560}
+[ INFO/2024-03-13 02:16:05,418] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:16:06,244] websocket: Websocket connected
+[ INFO/2024-03-13 02:16:06,372] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:16:06,486] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:16:06,888] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 02:16:07,292] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710292566}
+[ INFO/2024-03-13 02:16:12,118] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:16:12,975] websocket: Websocket connected
+[ INFO/2024-03-13 02:16:13,018] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:16:13,159] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:16:13,471] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 02:16:13,936] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710292573}
+[ INFO/2024-03-13 02:16:18,548] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:16:19,563] websocket: Websocket connected
+[ INFO/2024-03-13 02:16:19,623] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:16:19,759] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:16:20,168] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 02:16:20,903] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710292580}
+[ERROR/2024-03-13 02:16:20,906] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710292580}
+[ INFO/2024-03-13 02:16:25,572] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:16:26,412] websocket: Websocket connected
+[ INFO/2024-03-13 02:16:26,443] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:16:26,561] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 02:16:26,985] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710292586}
+[ INFO/2024-03-13 02:16:32,007] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:16:32,827] websocket: Websocket connected
+[ INFO/2024-03-13 02:16:32,851] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:16:32,959] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:16:33,444] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 02:17:00,508] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710292620}
+[ INFO/2024-03-13 02:17:05,542] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:17:06,500] websocket: Websocket connected
+[ INFO/2024-03-13 02:17:06,541] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:17:06,653] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:17:07,065] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 02:17:07,759] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710292627}
+[ INFO/2024-03-13 02:17:12,501] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:17:13,297] websocket: Websocket connected
+[ INFO/2024-03-13 02:17:13,320] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:17:13,431] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:17:13,747] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 02:17:14,408] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710292633}
+[ERROR/2024-03-13 02:17:14,410] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710292633}
+[ INFO/2024-03-13 02:17:18,996] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:17:19,810] websocket: Websocket connected
+[ INFO/2024-03-13 02:17:19,858] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:17:19,969] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:17:20,389] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 02:17:21,488] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710292640}
+[ERROR/2024-03-13 02:17:21,490] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710292640}
+[ INFO/2024-03-13 02:17:25,725] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:17:26,707] websocket: Websocket connected
+[ INFO/2024-03-13 02:17:26,819] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:17:26,928] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:17:27,348] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 02:17:27,860] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710292647}
+[ INFO/2024-03-13 02:17:32,911] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:17:33,742] websocket: Websocket connected
+[ INFO/2024-03-13 02:17:33,772] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:17:33,894] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:17:34,360] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 02:18:00,789] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710292680}
+[ INFO/2024-03-13 02:18:05,744] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:18:06,571] websocket: Websocket connected
+[ INFO/2024-03-13 02:18:06,603] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:18:06,715] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:18:07,160] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:18:08,088] quotexpy.api: Waiting for authorization... Elapsed time: 1 seconds.
+[ INFO/2024-03-13 02:18:09,090] quotexpy.api: Waiting for authorization... Elapsed time: 2 seconds.
+[ INFO/2024-03-13 02:18:10,124] quotexpy.api: Waiting for authorization... Elapsed time: 3 seconds.
+[ INFO/2024-03-13 02:18:11,073] quotexpy.api: Waiting for authorization... Elapsed time: 4 seconds.
+[ INFO/2024-03-13 02:18:12,100] quotexpy.api: Waiting for authorization... Elapsed time: 5 seconds.
+[ INFO/2024-03-13 02:18:13,141] quotexpy.api: Waiting for authorization... Elapsed time: 6 seconds.
+[ INFO/2024-03-13 02:18:14,074] quotexpy.api: Waiting for authorization... Elapsed time: 7 seconds.
+[ INFO/2024-03-13 02:18:15,092] quotexpy.api: Waiting for authorization... Elapsed time: 8 seconds.
+[ INFO/2024-03-13 02:18:16,136] quotexpy.api: Waiting for authorization... Elapsed time: 9 seconds.
+[ INFO/2024-03-13 02:18:17,048] quotexpy.api: Waiting for authorization... Elapsed time: 10 seconds.
+[ERROR/2024-03-13 02:18:17,048] quotexpy.api: Sending authorization with SSID '4wsMzzXxyVhFtOaThdWPgzIvLqJ6Wlvtb9nKo6zK' took too long to respond
+[ERROR/2024-03-13 02:18:17,880] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710292697}
+[ INFO/2024-03-13 02:18:22,319] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:18:23,317] websocket: Websocket connected
+[ INFO/2024-03-13 02:18:23,351] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:18:23,464] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:18:23,892] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 02:18:24,264] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710292703}
+[ INFO/2024-03-13 02:18:29,053] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:18:30,253] websocket: Websocket connected
+[ INFO/2024-03-13 02:18:30,284] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:18:30,412] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:18:30,886] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 02:19:00,618] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710292740}
+[ERROR/2024-03-13 02:19:00,621] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710292740}
+[ INFO/2024-03-13 02:19:05,623] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:19:06,450] websocket: Websocket connected
+[ INFO/2024-03-13 02:19:06,482] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:19:06,594] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:19:07,099] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:19:07,995] quotexpy.api: Waiting for authorization... Elapsed time: 1 seconds.
+[ INFO/2024-03-13 02:19:09,063] quotexpy.api: Waiting for authorization... Elapsed time: 2 seconds.
+[ INFO/2024-03-13 02:19:09,979] quotexpy.api: Waiting for authorization... Elapsed time: 3 seconds.
+[ INFO/2024-03-13 02:19:10,999] quotexpy.api: Waiting for authorization... Elapsed time: 4 seconds.
+[ INFO/2024-03-13 02:19:12,037] quotexpy.api: Waiting for authorization... Elapsed time: 5 seconds.
+[ INFO/2024-03-13 02:19:12,998] quotexpy.api: Waiting for authorization... Elapsed time: 6 seconds.
+[ INFO/2024-03-13 02:19:14,027] quotexpy.api: Waiting for authorization... Elapsed time: 7 seconds.
+[ INFO/2024-03-13 02:19:15,078] quotexpy.api: Waiting for authorization... Elapsed time: 8 seconds.
+[ INFO/2024-03-13 02:19:15,969] quotexpy.api: Waiting for authorization... Elapsed time: 9 seconds.
+[ INFO/2024-03-13 02:19:17,023] quotexpy.api: Waiting for authorization... Elapsed time: 10 seconds.
+[ERROR/2024-03-13 02:19:17,024] quotexpy.api: Sending authorization with SSID '4wsMzzXxyVhFtOaThdWPgzIvLqJ6Wlvtb9nKo6zK' took too long to respond
+[ERROR/2024-03-13 02:19:17,434] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710292757}
+[ INFO/2024-03-13 02:19:22,392] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:19:23,409] websocket: Websocket connected
+[ INFO/2024-03-13 02:19:23,497] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:19:23,607] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:19:24,139] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ERROR/2024-03-13 02:19:24,912] quotexpy.ws.client: {'error': 'not_money', 'amount': 50, 'requestId': 1710292764}
+[ INFO/2024-03-13 02:19:29,682] quotexpy.ws.client: Websocket connection closed.
+[ INFO/2024-03-13 02:19:30,883] websocket: Websocket connected
+[ INFO/2024-03-13 02:19:30,942] quotexpy.ws.client: Websocket client connected.
+[ INFO/2024-03-13 02:19:31,088] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
+[ INFO/2024-03-13 02:19:31,533] quotexpy.api: Waiting for authorization... Elapsed time: 0 seconds.
